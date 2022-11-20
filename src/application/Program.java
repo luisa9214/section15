@@ -9,9 +9,7 @@ public class Program {
 
         method2();
 
-
         System.out.println("End of program");
-
 
     }
 
